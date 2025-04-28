@@ -38,7 +38,7 @@
 
 # Debian 12 Bookworm (Python 3.11)
 depthai==2.30.0.0
-opencv-python==4.7.0.72
+opencv-python==4.8.1.78
 numpy==1.26.4
 nicegui==2.15.0
 PyYAML==6.0.2
